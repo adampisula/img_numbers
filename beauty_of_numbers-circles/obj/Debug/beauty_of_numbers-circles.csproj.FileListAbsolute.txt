@@ -1,0 +1,10 @@
+c:\users\adam\documents\visual studio 2015\Projects\beauty_of_numbers-circles\beauty_of_numbers-circles\bin\Debug\beauty_of_numbers-circles.exe.config
+c:\users\adam\documents\visual studio 2015\Projects\beauty_of_numbers-circles\beauty_of_numbers-circles\bin\Debug\beauty_of_numbers-circles.exe
+c:\users\adam\documents\visual studio 2015\Projects\beauty_of_numbers-circles\beauty_of_numbers-circles\bin\Debug\beauty_of_numbers-circles.pdb
+c:\users\adam\documents\visual studio 2015\Projects\beauty_of_numbers-circles\beauty_of_numbers-circles\obj\Debug\beauty_of_numbers-circles.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2015\Projects\beauty_of_numbers-circles\beauty_of_numbers-circles\obj\Debug\beauty_of_numbers_circles.Form1.resources
+c:\users\adam\documents\visual studio 2015\Projects\beauty_of_numbers-circles\beauty_of_numbers-circles\obj\Debug\beauty_of_numbers_circles.Properties.Resources.resources
+c:\users\adam\documents\visual studio 2015\Projects\beauty_of_numbers-circles\beauty_of_numbers-circles\obj\Debug\beauty_of_numbers-circles.csproj.GenerateResource.Cache
+c:\users\adam\documents\visual studio 2015\Projects\beauty_of_numbers-circles\beauty_of_numbers-circles\obj\Debug\beauty_of_numbers-circles.exe
+c:\users\adam\documents\visual studio 2015\Projects\beauty_of_numbers-circles\beauty_of_numbers-circles\obj\Debug\beauty_of_numbers-circles.pdb
+C:\Users\Adam\documents\visual studio 2015\Projects\beauty_of_numbers-circles\beauty_of_numbers-circles\obj\Debug\beauty_of_numbers_circles.Form2.resources
