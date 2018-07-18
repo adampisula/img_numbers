@@ -121,6 +121,8 @@ namespace beauty_of_numbers_circles
                 form2.BackColor = Color.Black;
                 form2.Show();
 
+                this.Close();
+
                 g = form2.CreateGraphics();
 
                 times = 0;
@@ -189,8 +191,6 @@ namespace beauty_of_numbers_circles
                 g.FillRectangle(new SolidBrush(Color.Black), spanb, height - spanb / 2 - 10, 300, 100);
                 g.DrawString(textBox1.Text, new Font("Courier new", 16), new SolidBrush(Color.White), spanb + 5, spanb / 2 - 15);
                 g.DrawString("Adam Pisula 2016", new Font("Courier new", 16), new SolidBrush(Color.White), (width - spanb - 220), (height - spanb / 2 - 15));
-
-                this.Close();
 
                 Thread.Sleep(15000);
 

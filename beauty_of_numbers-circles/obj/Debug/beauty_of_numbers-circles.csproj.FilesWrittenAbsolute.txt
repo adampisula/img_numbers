@@ -1,0 +1,9 @@
+/root/Documents/Projects/img_numbers/beauty_of_numbers-circles/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/root/Documents/Projects/img_numbers/beauty_of_numbers-circles/obj/Debug/beauty_of_numbers_circles.Form1.resources
+/root/Documents/Projects/img_numbers/beauty_of_numbers-circles/obj/Debug/beauty_of_numbers_circles.Form2.resources
+/root/Documents/Projects/img_numbers/beauty_of_numbers-circles/obj/Debug/beauty_of_numbers_circles.Properties.Resources.resources
+/root/Documents/Projects/img_numbers/beauty_of_numbers-circles/bin/Debug/beauty_of_numbers-circles.exe.config
+/root/Documents/Projects/img_numbers/beauty_of_numbers-circles/bin/Debug/beauty_of_numbers-circles.pdb
+/root/Documents/Projects/img_numbers/beauty_of_numbers-circles/bin/Debug/beauty_of_numbers-circles.exe
+/root/Documents/Projects/img_numbers/beauty_of_numbers-circles/obj/Debug/beauty_of_numbers-circles.exe
+/root/Documents/Projects/img_numbers/beauty_of_numbers-circles/obj/Debug/beauty_of_numbers-circles.pdb
